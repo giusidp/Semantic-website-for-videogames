@@ -1,4 +1,4 @@
-# Final project:Semantic-website-for-videogames
+# Final project: Semantic-website-for-videogames
 ## Group 3
 In this repository is present a .zip file that contains the developed semantic website and a pdf file that represents the documentation for this project.
 
