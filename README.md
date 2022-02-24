@@ -4,5 +4,5 @@ In this repository is present a .zip file that contains the developed semantic w
 
 ## Requirements if you want to visualize the website on your localhost:
 - You must have at least PHP v8.0.13
-- You must use XAMPP v3.3.0
+- You must use XAMPP v3.3.0 
 
